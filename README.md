@@ -1,2 +1,1 @@
-# xkcdAggregate
 # got-api
